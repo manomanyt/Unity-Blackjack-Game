@@ -22,4 +22,4 @@ Conclusion:
 This project was a great introduction to ICT and it caters to my hobby's and my interests and I wanted to share this on here and learn a bit on how to use GitHub. I have learned allot and i am curious to see where this study and ICT as a whole will take me.
 
 DISCLAIMER!!!
-The project started in September so this repository is uploaded at a later date due to the fact that I didn't know anything about GitHub untill a friend introduced me last week. Showing progress in this repository is hard because every comits are made in the same day but the project was in fact made in 4 weeks during my school time.
+The project started in September so this repository is uploaded at a later date due to the fact that I didn't know anything about GitHub untill a friend introduced me last week. Showing progress in this repository is hard because all of the comits are made in the same day but the project was in fact made in 4 weeks during my school time.
